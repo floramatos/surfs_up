@@ -13,7 +13,8 @@ The analysis focused on the months of June and December, as these months can giv
 
 As seen in the plots below, December temperatures tend to be lower and vary more throughout a day compared to June temperatures. Overall temperatures in Honolulu, however, do not decrease significantly from June to December.
 
-![plot_June](https://user-images.githubusercontent.com/89421440/146592944-b78f7ab8-bb9e-402e-90f1-be676330d782.png) ![plot_december](https://user-images.githubusercontent.com/89421440/146592966-180e7eb8-2e7d-42b5-9ddd-27e30dc694a8.png)
+![plot_June](https://user-images.githubusercontent.com/89421440/146592944-b78f7ab8-bb9e-402e-90f1-be676330d782.png)
+![plot_december](https://user-images.githubusercontent.com/89421440/146592966-180e7eb8-2e7d-42b5-9ddd-27e30dc694a8.png)
 
 
 
