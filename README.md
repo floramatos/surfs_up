@@ -11,11 +11,13 @@ The analysis focused on the months of June and December, as these months can giv
 - Mean temperature was 75 (*SD* = 3.257) for the month of June and   71 (*SD* = 3.746) for the month of December.
 - Temperature range was 64-85 for the month of June and 56-83 for the month of December.
 
-As seen in Figure 1 and 2 below, December temperatures tend to be lower and vary more throughout a day compared to June temperatures. Overall, temperatures in Honolulu do not decrease significantly from June to December.
+As seen in the plots below, December temperatures tend to be lower and vary more throughout a day compared to June temperatures. Overall temperatures in Honolulu, however, do not decrease significantly from June to December.
 
-Figure 1
+![plot_June](https://user-images.githubusercontent.com/89421440/146592944-b78f7ab8-bb9e-402e-90f1-be676330d782.png) ![plot_december](https://user-images.githubusercontent.com/89421440/146592966-180e7eb8-2e7d-42b5-9ddd-27e30dc694a8.png)
 
-Figure 2
+
+
+
 
 ## Summary
 In sum, the temperatures in Honolulu, Hawaii do not tend to vary significantly from June to December. As the average and minimum temperatures in December were only slightly lower compared to the ones in June, Honolulu seems to be a promising location for a surf shop.
